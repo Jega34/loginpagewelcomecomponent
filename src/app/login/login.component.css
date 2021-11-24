@@ -1,0 +1,30 @@
+h2 {
+  background-color: aqua;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+}
+.card {
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: auto;
+}
+.div {
+  font-family: 'calibri', Times, serif;
+  font-size: 300;
+  color: rgb(79, 42, 165);
+}
+h4 {
+  color: rgb(241, 41, 91);
+  text-align: center;
+  font-size: 500;
+}
+
+button {
+  color: green;
+  background-color: yellow;
+  text-align: center;
+  font-size: unset;
+}
